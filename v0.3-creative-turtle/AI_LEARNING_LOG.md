@@ -14,15 +14,14 @@ I wanted to create a colourful geometric sea turtle inspired by a low-poly refer
 
 ## 3. How many iterations did it take?
 
-Several iterations were needed to build and refine the artwork.
+I completed 6 main development iterations:
 
-The process included:
-- Creating the background using Pillow.
-- Drawing the first geometric shell.
-- Adding the head and eye.
-- Adding four flippers and a tail.
-- Reorganising the program into one complete file.
-- Refining the shell and overall composition.
+1. Created the background using Pillow.
+2. Drew the first geometric shell.
+3. Added the head and eye.
+4. Added four flippers and a tail.
+5. Reorganised the program into one complete file.
+6. Refined the shell and overall composition.
 
 ## 4. What changed in my instructions?
 
