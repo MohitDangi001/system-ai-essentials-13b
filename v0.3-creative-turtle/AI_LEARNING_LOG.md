@@ -14,14 +14,7 @@ I wanted to create a colourful geometric sea turtle inspired by a low-poly refer
 
 ## 3. How many iterations did it take?
 
-I completed 6 main development iterations:
-
-1. Created the background using Pillow.
-2. Drew the first geometric shell.
-3. Added the head and eye.
-4. Added four flippers and a tail.
-5. Reorganised the program into one complete file.
-6. Refined the shell and overall composition.
+I went through several rounds of interaction with AI. I did not record the exact number at the time. I refined the design by testing the output, comparing it with my reference image and requesting improvements.
 
 ## 4. What changed in my instructions?
 
