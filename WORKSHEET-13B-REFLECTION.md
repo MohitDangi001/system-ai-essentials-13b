@@ -58,6 +58,9 @@ image.save("first_image.png")
 ## v0.3 — Turtle + Pillow Integration
 
 ### What I wanted to build
+### My prediction before coding
+
+I expected Pillow to create a black background GIF and Turtle to draw a colourful geometric sea turtle over it. The final window should show a recognisable turtle with a patterned shell, head, four flippers, an eye and a tail.
 
 A colourful geometric sea turtle on a black background, using Pillow to create the background and Turtle to draw the turtle.
 
