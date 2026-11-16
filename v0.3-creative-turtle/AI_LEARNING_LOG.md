@@ -45,3 +45,9 @@ The program successfully generated a colourful geometric sea turtle on a black b
 - How one library can provide an image used by another library.
 - How functions and loops reduce repeated code.
 - How to debug and improve a program through testing.
+
+## Something AI got wrong
+The first turtle design did not fully match the visual reference, especially the shape and arrangement of the turtle parts.
+
+## How I discovered and corrected it
+I compared the program output with the reference image, identified the differences, and refined the drawing.
