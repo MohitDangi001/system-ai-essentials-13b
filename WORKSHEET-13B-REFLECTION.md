@@ -64,6 +64,8 @@ I expected Pillow to create a black background GIF and Turtle to draw a colourfu
 
 A colourful geometric sea turtle on a black background, using Pillow to create the background and Turtle to draw the turtle.
 
+**Documentation note:** I recorded this prediction during my final documentation review, after implementing the program. It describes the output I intended to create.
+
 ### Prompt used
 
 Help me create a colourful geometric sea turtle using Python Turtle and Pillow. I want a black background, a colourful polygonal shell, a head, four flippers and a tail. Explain the code and combine both libraries.
@@ -104,7 +106,7 @@ It achieved the main objective, although it was not an exact reproduction of the
 | Source | Speed | Reliability |
 |---|---|---|
 | Help flag | Fast for command options | Reliable for supported options |
-| Manual | Medium | Reliable for command details |
+| Manual | Not tested | Not evaluated |
 | Official documentation | Medium | Highly reliable for library usage |
 | AI | Very fast | Must be checked against documentation |
 
